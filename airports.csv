@@ -1,0 +1,4 @@
+﻿"fs","iata","icao","name","city","cityCode","stateCode","countryCode","countryName","regionName","timeZoneRegionName","latitude","longitude","elevationFeet","classification","active"
+"YYZ","YYZ","CYYZ","Pearson International Airport","Toronto","YTO","ON","CA","Canada","North America","America/Toronto","43.681585","-79.61146","569","1","True"
+"YKZ","YKZ","CYKZ","Buttonville Municipal Airport","Toronto","YTO","ON","CA","Canada","North America","America/Toronto","43.861308","-79.367734","603","4","True"
+"YTZ","YTZ","CYTZ","Billy Bishop Toronto City Airport","Toronto","YTO","ON","CA","Canada","North America","America/Toronto","43.627499","-79.396202","252","2","True"
